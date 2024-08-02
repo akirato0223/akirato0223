@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akira Tou (Xuliang Deng)</h1>
-<h3 align="center">Student at Carnegie Mellon</h3>
+<h3 align="center">Student at Carnegie Mellon University</h3>
 
 - 📫 How to reach me **xuliang.akira.deng@gmail.com**
 <p align="left">
