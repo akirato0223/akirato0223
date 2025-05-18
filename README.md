@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akira Tou (Xuliang Deng)</h1>
-<h3 align="center">Student at Carnegie Mellon University</h3>
+<h4 align="center">Software Engineer at a series D start-up in California | Computer Science Grad at Carnegie Mellon University</h4>
 
-- 📫 How to reach me **xuliang.akira.deng@gmail.com**
+- 📫 How to reach me **akira.deng99@gmail.com** for my updated resume, questions, etc
+
 <p align="left">
 </p>
 
