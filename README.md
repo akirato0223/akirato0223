@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akira (Xuliang) Deng </h1>
-<h4 align="center"> Computer Science Grad at Carnegie Mellon University | SWE @ Meta</h4>
 
 - 📫 How to reach me **akira.deng99@gmail.com** for my updated resume, questions, etc
 
